@@ -4,13 +4,13 @@ Uso rápido
 
 ```powershell
 python -m venv .venv; .\.venv\Scripts\Activate.ps1
-pip install -r c:\Users\Juan\Desktop\python\Panda\requirements.txt
+pip install -r ruta
 ```
 
 2. Ejecutar la aplicación GUI:
 
 ```powershell
-python c:\Users\Juan\Desktop\python\Panda\calculapuntajeagregacolumnaexcel.py
+python ruta
 ```
 
 3. Uso desde la GUI:
@@ -23,3 +23,4 @@ Notas importantes:
 - La aplicación detecta automáticamente columnas cuyo nombre contiene la palabra `puntaje` (insensible a mayúsculas).
 - Si se encuentran valores no numéricos en columnas de puntaje, la app preguntará si deseas convertirlos a vacío (NaN) antes de continuar.
 - Requiere `pandas` y `openpyxl` para lectura/escritura de Excel.
+
