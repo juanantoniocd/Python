@@ -1,1 +1,1 @@
-
+Programa que hace análisis estadístico a partir de datos disponibles en excel que correspondena estudiantes de un establecimiento educacional y sus calificaciones.
