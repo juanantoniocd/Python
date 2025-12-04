@@ -1,0 +1,15 @@
+{
+  "tareas": [
+    {
+      "id": 2,
+      "texto": "comer gordon blue",
+      "hecho": false
+    },
+    {
+      "id": 3,
+      "texto": "ir donde la tía almendra",
+      "hecho": false
+    }
+  ],
+  "contador_id": 4
+}
